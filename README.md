@@ -5,16 +5,16 @@
 **1. Development Overflow：**<br> 
 ![overflow](https://github.com/meviyLab/Tensorboard-Visualization-using-RP-Data/assets/62593581/804640a1-b11f-4ab3-b23f-66d146c5d6d0)
 
-**●　Step 1: Training Phase:**<br> 
-　　　　　●　Rapid design data (教師付きデータ) is used as training data.<br> 
-　　　　　●　The data is used to train a Graph Neural Network (GNN) model.<br> 
-　　　　　●　The GNN model is created using the Rapid design training data.<br> 
+**Step 1: Training Phase:**<br> 
+    ●　Rapid design data (教師付きデータ) is used as training data.<br> 
+    ●　The data is used to train a Graph Neural Network (GNN) model.<br> 
+    ●　The GNN model is created using the Rapid design training data.<br> 
 
 **Step 2 : Testing Phase:**<br> 
-　　　　●　Rapid prototype data (教師なしデータ) is used for testing.<br> 
-　　　　●　The GNN model is applied to the Rapid prototype data.<br> 
-　　　　●　The GNN model extracts a feature vector from the Rapid prototype data.<br> 
-　　　　●　The feature vector is used to compare and find the similarity between different sets of Rapid prototype data.<br> 
+    ●　Rapid prototype data (教師なしデータ) is used for testing.<br> 
+    ●　The GNN model is applied to the Rapid prototype data.<br> 
+    ●　The GNN model extracts a feature vector from the Rapid prototype data.<br> 
+    ●　The feature vector is used to compare and find the similarity between different sets of Rapid prototype data.<br> 
 
 In summary, the Rapid design data is used to train a GNN model, and the model is then used to extract feature vectors from Rapid prototype data for the purpose of finding similarities between different sets of data.<br> 
 
