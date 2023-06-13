@@ -10,7 +10,6 @@ STEP 1: Training Phase:
 ●　The GNN model is created using the Rapid design training data.
 
 STEP 2 : Testing Phase:
-
 ●　Rapid prototype data (教師なしデータ) is used for testing.
 ●　The GNN model is applied to the Rapid prototype data.
 ●　The GNN model extracts a feature vector from the Rapid prototype data.
