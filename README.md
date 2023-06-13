@@ -1,4 +1,4 @@
-# Tensorboard-Visualization-using-RP-Data
+# Tensorboard-Visualization using Rapid Prototype Data
 Visualization of unsupervised data (Meviy Rapid Prototype data) using Tensorboard
 
 **Development Overflow：：**
