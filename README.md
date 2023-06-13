@@ -1,8 +1,8 @@
 # Tensorboard Visualization using Rapid Prototype Data <br>
 
-Visualization of unsupervised data (Meviy Rapid Prototype data) using Tensorboard<br> 
+●　Visualization of unsupervised data (Meviy Rapid Prototype data) using Tensorboard<br> 
 
-**1. Development Overflow：：**<br> 
+**1. Development Overflow：**<br> 
 ![overflow](https://github.com/meviyLab/Tensorboard-Visualization-using-RP-Data/assets/62593581/804640a1-b11f-4ab3-b23f-66d146c5d6d0)
 
 **●　Step 1: Training Phase:**<br> 
