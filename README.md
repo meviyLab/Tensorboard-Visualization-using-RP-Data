@@ -4,12 +4,13 @@ Visualization of unsupervised data (Meviy Rapid Prototype data) using Tensorboar
 **Development Overflow:**
 ![overflow](https://github.com/meviyLab/Tensorboard-Visualization-using-RP-Data/assets/62593581/804640a1-b11f-4ab3-b23f-66d146c5d6d0)
 
- 1: Training Phase:
+STEP 1: Training Phase:
 ●　Rapid design data (教師付きデータ) is used as training data.
 ●　The data is used to train a Graph Neural Network (GNN) model.
 ●　The GNN model is created using the Rapid design training data.
 
-**Step 2 : Testing Phase:**
+STEP 2 : Testing Phase:
+
 ●　Rapid prototype data (教師なしデータ) is used for testing.
 ●　The GNN model is applied to the Rapid prototype data.
 ●　The GNN model extracts a feature vector from the Rapid prototype data.
